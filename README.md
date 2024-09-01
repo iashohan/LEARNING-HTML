@@ -9,3 +9,10 @@ Step 3: Then click on the … more action button above the history button and cl
 Step 4: Then go to Raw.githack.com and paste the link into the input box
 
 Step 5: Copy the URL in the production field and paste it into the browser
+
+
+                      or
+
+
+
+view the same name png file. Example:   (Button.html) is the html file and (Button.png) is the output of (Button.html) file.
